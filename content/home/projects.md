@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'See my [GitHub](https://github.com/sylvainlapeyrade) for more projects.'
 
 content:
   # Page type to display. E.g. project.
@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Video Game
+    tag: Video Game
+  - name: Computer Vision
+    tag: Computer Vision
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

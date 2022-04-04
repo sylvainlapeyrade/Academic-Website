@@ -5,6 +5,7 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
+active: false
 
 # Order that this section appears on the page.
 weight: 30
@@ -30,7 +31,7 @@ feature:
   name: Photography
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
+# - icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
 #  description: "100%"  
