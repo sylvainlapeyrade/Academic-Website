@@ -1,0 +1,6 @@
+hugo.exe
+
+# Hugo
+/resources/
+public/
+assets/jsconfig.json
