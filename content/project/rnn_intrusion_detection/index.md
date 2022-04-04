@@ -3,7 +3,7 @@ title:  Deep Learning Network Detection Intrusion
 summary: Recurrent Neural Networks (LSTM) models made with Keras and tensorflow for network intrusion detection.
 tags:
 - Deep Learning
-date: "2019-22-07"
+date: "2019-07-22"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/sylvainlapeyrade/RNN_Intrusion-Detection_Keras"
