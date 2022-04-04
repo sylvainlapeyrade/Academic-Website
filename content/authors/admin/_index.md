@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sylvain.lapeyrade@hotmail.fr
+  link: mailto:sylvain.lapeyrade+website@hotmail.fr
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
