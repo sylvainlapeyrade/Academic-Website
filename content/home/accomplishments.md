@@ -44,7 +44,7 @@ item:
   url: ""
 - certificate_url:
   date_end: ""
-  date_start: "2021-10-01"
+  date_start: "2020-10-01"
   description: ""
   organization: Groupe Travail IA Jeux
   organization_url: https://jeux.gdria.fr/
