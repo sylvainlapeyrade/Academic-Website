@@ -35,7 +35,7 @@ item:
   title: University Teaching Assitant
   url: ""
 - certificate_url:
-  date_end: "2022-05-01"
+  date_end: "2021-05-01"
   date_start: "2021-03-01"
   description: "**BSc 2** -- Video Game development using the Unity Game Engine"
   organization: Pole Universitaire Vichy
